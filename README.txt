@@ -10,4 +10,7 @@ Output from script will appear in remix terminal.
 
 File path(search)
 
-✅1:Tokenbep20
+✅1:Tokenbep20.sol
+
+✅2:MIGRATION 
+  ➜initial_migration.js
