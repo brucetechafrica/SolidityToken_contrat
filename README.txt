@@ -15,3 +15,4 @@ File path(search)
 ✅2:MIGRATION 
   ➜initial_migration.js
   ➜Tokenmigrator.sol
+  ➜Configmultisig.sol
