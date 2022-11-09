@@ -1,6 +1,8 @@
 pragma solidity ^0.7.3;
 
 import '@openzeppelin/contracts/token/ERC20/IERC20.sol';
+import "@studydefi/money-legos/dydx/contracts/DydxFlashloanBase.sol";
+import "@studydefi/money-legos/dydx/contracts/ICallee.sol";
 
 contract YieldFarmer {
   enum Protocol { A, B, C }
