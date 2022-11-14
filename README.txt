@@ -18,3 +18,8 @@ File path(search)
 
 ✅3:Multisig.sol
   ➜Configmultisig.sol
+
+✅4:ICO
+  ➜ICOtoken.sol
+  
+
