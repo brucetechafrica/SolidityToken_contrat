@@ -21,5 +21,8 @@ File path(search)
 
 ✅4:ICO
   ➜ICOtoken.sol
+
+✅5:YieldFarming
+  ➜yieldfarming.sol
   
 
